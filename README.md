@@ -30,3 +30,9 @@ Con experiencia en trabajo colaborativo en entornos académicos.
 - NumPy  
 - SciPy  
 - Matplotlib  
+
+## Proyectos destacados
+
+1. [Espectrometría óptica y ley de Beer–Lambert](projects/01_espectrometria_beer-lambert/)
+2. [Análisis espectral mediante Transformada de Fourier](projects/02_fourier_sistemas_resonantes/)
+3. [Interferometría de Michelson con actuador piezoeléctrico](projects/03_michelson_interferometria/)
